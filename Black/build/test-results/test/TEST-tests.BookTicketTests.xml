@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.BookTicketTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-22T12:05:57" hostname="FK.Dlink" time="14.244">
+  <properties/>
+  <testcase name="OpenHome" classname="tests.BookTicketTests" time="14.244"/>
+  <system-out><![CDATA[Execution Starts
+Browser opened.
+Position of the webelement from left side is 0 pixels
+Position of the webelement from top side is 224 pixels
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}) on port 43439
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Oct 22, 2019 5:35:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Oct 22, 2019 5:36:11 PM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+]]></system-err>
+</testsuite>
